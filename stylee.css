@@ -1,5 +1,6 @@
 body {
   background-image: url("https://github.com/jporres/jporres.github.io/blob/master/myBackground.jpg?raw=true");
+  width: 800px
 }
 
 #nav-table { width: 800px; }
